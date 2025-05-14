@@ -1,0 +1,3 @@
+Paket = Sammlung von Modulen (*.py)
+        Initialisierungsdatei __init__.py mit import Angaben
+        wird automatisch beim import des Pakets exekutiert
